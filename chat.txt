@@ -1,0 +1,17 @@
+Client: b
+Server: hello
+Client: hi
+Server: hey
+Client: you
+Server: hi
+Client: hello
+Server: to
+Client: you
+Server: hi
+Client: hello
+Server: how are you 
+Client: i'm fine and you
+Server: Hi
+Client: hello
+Server: hi
+Client: hello
